@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header class="cabeçalho">
+    <img class="cabeçalho-imagem" src="./img/alura-start.png" alt="logo da altura start">
+    <ul class="cabeçalho-lista-tem">
+        <li class="cabeçalho-lista-item">Estudante</li>
+        <li class="cabeçalho-lista-item">Escola</li>
+        </ul>
+        </header>
+        <section class="escola">
+            <div class="escoal-conteudo">
+                <h2 class="escola-titulo">sobre a Escola</h2>
+                <p class="escoal-texto-um"> escreva o primeiro paragrafo aqui</p>
+                <p class="escoal-texto-dois">escreva o segundo paragrafo aqui</p>
+                </div>
+                <imh class="escoal-imagem" src="./img/escola.png" alt="professora no quadro">
+         </section>
+         </body>
+         </html>
